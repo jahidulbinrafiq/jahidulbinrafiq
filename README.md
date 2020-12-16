@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **javascript,ES6,react,redux,bootstrap,reactstrap,html,css,**
 
-- 📫 How to reach me **jahidulraifq@gmail.com**
+- 📫 How to reach me **https://jahidulbinrafiq.netlify.app/contactMe**
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
