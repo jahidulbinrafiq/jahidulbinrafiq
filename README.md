@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://jahidulbinrafiq.medium.com/](https://jahidulbinrafiq.medium.com/)
 
-- 💬 Ask me about **javascript,react,redux,bootstrap,reactstrap,html,css,**
+- 💬 Ask me about **javascript,ES6,react,redux,bootstrap,reactstrap,html,css,**
 
 - 📫 How to reach me **jahidulraifq@gmail.com**
 
