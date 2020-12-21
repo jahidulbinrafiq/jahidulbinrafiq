@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahidul</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **everything 🤣**
-
 - 👨‍💻 All of my projects are available at [https://jahidulbinrafiq.netlify.app/home](https://jahidulbinrafiq.netlify.app/home)
 
 - 📝 I regularly write articles on [https://jahidulbinrafiq.medium.com/](https://jahidulbinrafiq.medium.com/)
