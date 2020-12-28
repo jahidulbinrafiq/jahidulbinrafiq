@@ -3,6 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://jahidulbinrafiq.netlify.app/home](https://jahidulbinrafiq.netlify.app/home)
 
+- 🌱 I’m currently learning **Dart**
+
 - 📝 I regularly write articles on [https://jahidulbinrafiq.medium.com/](https://jahidulbinrafiq.medium.com/)
 
 - 💬 Ask me about **javascript,ES6,react,bootstrap,html,css**
@@ -17,6 +19,6 @@
  <a href="https://github.com/jahidulbinrafiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="@jahidulbinrafiq" height="30" width="40" /></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidulbinrafiq)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahidulbinrafiq&show_icons=true&count_private=true) 
