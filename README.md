@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://jahidulbinrafiq.netlify.app/home](https://jahidulbinrafiq.netlify.app/home)
 
-- 🌱 I’m currently learning **Dart**
-
 - 📝 I regularly write articles on [https://jahidulbinrafiq.medium.com/](https://jahidulbinrafiq.medium.com/)
 
 - 💬 Ask me about **javascript,ES6,react,bootstrap,html,css**
