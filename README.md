@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahidul</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 📝 I regularly write articles on [https://jahidulbinrafiq.medium.com/](https://jahidulbinrafiq.medium.com/)
 
