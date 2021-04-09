@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **javascript,ES6,react,bootstrap,html,css**
 
-- 📫 How to reach me **https://jahidulbinrafiq.netlify.app/contact**
+- 📫 How to reach me **jahidulrafiq@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
