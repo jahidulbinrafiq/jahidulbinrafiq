@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahidul</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate learner and developer</h3>
 
 - 📝 I regularly write articles on [https://jahidulbinrafiq.medium.com/](https://jahidulbinrafiq.medium.com/)
-
-- 💬 Ask me about **javascript,ES6,react,bootstrap,html,css**
 
 - 📫 How to reach me **jahidulrafiq@gmail.com**
 
