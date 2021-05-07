@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahidul</h1>
 <h3 align="center">A passionate learner and developer</h3>
 
-- 📝 I regularly write articles on [https://jahidulbinrafiq.medium.com/](https://jahidulbinrafiq.medium.com/)
-
-- 📫 How to reach me **jahidulrafiq@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
